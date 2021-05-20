@@ -20,7 +20,7 @@ body{
     border: 10px solid grey;
     border-radius: 50%;
     /* border: 8px solid #ececec; */
-    background: url("/img/backgroung.jpg");
+    background: url("/analog-clock/img/backgroung.jpg");
     background-color: #ececec;
     background-position: center;
     background-repeat: no-repeat;
