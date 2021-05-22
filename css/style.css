@@ -38,6 +38,7 @@ body{
     height: 100%;
     text-align: center;
     font-size: 1.5rem;
+    font-weight: 600;
 }
 /* numbers */
 
@@ -116,6 +117,11 @@ body{
 }
 #number-11 p{
     transform: rotate(-330deg);
+}
+
+#number-12{
+    position: relative;
+    top:-6px;
 }
 
 /* hands */
